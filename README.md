@@ -17,3 +17,5 @@ this will run fastapi on you localhost port 8000
 http://127.0.0.1:8000/docs
 
 go to this Url this will give swagger UI To test your apis
+
+You will have a clear Ui there
